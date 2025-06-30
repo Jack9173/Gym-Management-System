@@ -14,9 +14,7 @@ Finally a gym management system build with laravel and reactjs. Comes with power
 6. subscription management
 7. branches
 
-## Open to Work
 
-If you have specific requires and would like to work with, please contact me via email at johnadvedecano@gmail.com
 
 ## Screenshots
 
