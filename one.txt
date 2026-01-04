@@ -1,0 +1,2 @@
+# git is a version control for a device.
+# github for remote version to store history changes of the all files and repos.
